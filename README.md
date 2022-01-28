@@ -8,12 +8,6 @@
 **leonardomelosantos/leonardomelosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-var developer = {
-    "name": "Leonardo Melo santos",
-    "profiles": {
-        "linkedIn": "www.linkedin.com/in/leonardomelosantos",
-        "instagram": "https://www.instagram.com/leonardomelosantos"
-    },
-    "homepage": "https://www.leonardomelosantos.com.br"
-}
-console.log(developer)
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardomelosantos&theme=dark)](https://git.io/streak-stats)
