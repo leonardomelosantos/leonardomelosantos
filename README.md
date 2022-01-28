@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CIn/Samsung
-- 🌱 I’m currently learning .NET Core and UWP
 - 👯 I’m looking to collaborate on .NET community
 - 💬 Ask me about .NET, asp.net, c#, dynamics AX
 
