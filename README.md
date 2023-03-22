@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CIn/Samsung
+- 🔭 I’m currently working on SiDi
 - 👯 I’m looking to collaborate on .NET community
-- 💬 Ask me about .NET, asp.net, c#, dynamics AX
+- 💬 Ask me about  Software Architecture, .NET, asp.net, C#
 
 <!--
 **leonardomelosantos/leonardomelosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
