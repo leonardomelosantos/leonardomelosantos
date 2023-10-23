@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on SiDi
 - 👯 I’m looking to collaborate on .NET community
 - 💬 Ask me about  Software Architecture, .NET, asp.net, C#
+- See my GitHub repositories https://github.com/leonardomelosantos?tab=repositories
+- See my Nuget Packages https://www.nuget.org/profiles/leonardomelosantos
+- See my Google Play apps https://play.google.com/store/apps/developer?id=Leonardo+Melo+Santos 
 
 <!--
 **leonardomelosantos/leonardomelosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
