@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SiDi
+- 🔭 I’m currently working on FCxLabs
 - 👯 I’m looking to collaborate on .NET community
 - 💬 Ask me about  Software Architecture, .NET, asp.net, C#
 - See my GitHub repositories https://github.com/leonardomelosantos?tab=repositories
